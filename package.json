@@ -1,0 +1,8 @@
+{
+  "name": "ts-cli-starter",
+  "version": "0.0.1",
+  "description": "A starter template for node CLI tools",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": false
+}
