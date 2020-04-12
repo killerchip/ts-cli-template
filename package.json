@@ -1,5 +1,5 @@
 {
-    "name": "ts-cli-starter",
+    "name": "ts-cli-template",
     "version": "0.0.1",
     "description": "A starter template for node CLI tools",
     "main": "./dist/index.js",
